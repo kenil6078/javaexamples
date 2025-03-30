@@ -1,0 +1,134 @@
+{
+          // Use IntelliSense to learn about possible attributes.
+          // Hover to view descriptions of existing attributes.
+          // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+          "version": "0.2.0",
+          "configurations": [
+          
+                    {
+                              "type": "java",
+                              "name": "Current File",
+                              "request": "launch",
+                              "mainClass": "${file}"
+                    },
+                    {
+                              "type": "java",
+                              "name": "Eventdemo",
+                              "request": "launch",
+                              "mainClass": "Eventdemo",
+                              "projectName": "java_c943d3c1"
+                    },
+                    {
+                              "type": "java",
+                              "name": "adition",
+                              "request": "launch",
+                              "mainClass": "adition",
+                              "projectName": "java_c943d3c1"
+                    },
+                    {
+                              "type": "java",
+                              "name": "classprg",
+                              "request": "launch",
+                              "mainClass": "classprg",
+                              "projectName": "java_c943d3c1"
+                    },
+                    {
+                              "type": "java",
+                              "name": "click",
+                              "request": "launch",
+                              "mainClass": "click",
+                              "projectName": "java_c943d3c1"
+                    },
+                    {
+                              "type": "java",
+                              "name": "dowhile",
+                              "request": "launch",
+                              "mainClass": "dowhile",
+                              "projectName": "java_c943d3c1"
+                    },
+                    {
+                              "type": "java",
+                              "name": "forloop",
+                              "request": "launch",
+                              "mainClass": "forloop",
+                              "projectName": "java_c943d3c1"
+                    },
+                    {
+                              "type": "java",
+                              "name": "helloworld",
+                              "request": "launch",
+                              "mainClass": "helloworld",
+                              "projectName": "java_c943d3c1"
+                    },
+                    {
+                              "type": "java",
+                              "name": "inputvalue",
+                              "request": "launch",
+                              "mainClass": "inputvalue",
+                              "projectName": "java_c943d3c1"
+                    },
+                    {
+                              "type": "java",
+                              "name": "nameandroll",
+                              "request": "launch",
+                              "mainClass": "nameandroll",
+                              "projectName": "java_c943d3c1"
+                    },
+                    {
+                              "type": "java",
+                              "name": "overriding",
+                              "request": "launch",
+                              "mainClass": "overriding",
+                              "projectName": "java_c943d3c1"
+                    },
+                    {
+                              "type": "java",
+                              "name": "polymorphismex",
+                              "request": "launch",
+                              "mainClass": "polymorphismex",
+                              "projectName": "java_c943d3c1"
+                    },
+                    {
+                              "type": "java",
+                              "name": "positivenegative",
+                              "request": "launch",
+                              "mainClass": "positivenegative",
+                              "projectName": "java_c943d3c1"
+                    },
+                    {
+                              "type": "java",
+                              "name": "singledimarr",
+                              "request": "launch",
+                              "mainClass": "singledimarr",
+                              "projectName": "java_c943d3c1"
+                    },
+                    {
+                              "type": "java",
+                              "name": "switchcase",
+                              "request": "launch",
+                              "mainClass": "switchcase",
+                              "projectName": "java_c943d3c1"
+                    },
+                    {
+                              "type": "java",
+                              "name": "test",
+                              "request": "launch",
+                              "mainClass": "test",
+                              "projectName": "java_c943d3c1"
+                    },
+                    {
+                              "type": "java",
+                              "name": "twodimarr",
+                              "request": "launch",
+                              "mainClass": "twodimarr",
+                              "projectName": "java_c943d3c1"
+                    },
+                    {
+                              "type": "java",
+                              "name": "whileloop",
+                              "request": "launch",
+                              "mainClass": "whileloop",
+                              "projectName": "java_c943d3c1"
+                    }
+          ]
+}
