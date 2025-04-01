@@ -1,9 +1,11 @@
 import java.util.Scanner;
 
 public class singledimarr {
+
+          Scanner obj = new Scanner(System.in);
           public static void main(String[] args)
            {
-                    Scanner obj = new Scanner(System.in);
+               
                     int a[] = new int[5];
                     int i;
                     for( i=0; i<a.length;i++)
