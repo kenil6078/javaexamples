@@ -2,7 +2,7 @@ import java.util.*;
 public class switchcase {
 
           public static void main(String[] args) {
-                   Scanner obj = new Scanner(System.in);
+          Scanner obj = new Scanner(System.in);
                    int no;
                    System.out.println("Enter No");
                    no= obj.nextInt();
